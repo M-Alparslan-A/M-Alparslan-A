@@ -54,24 +54,20 @@ I am an Electrical and Electronics Engineering undergraduate student at Bandırm
 ### Activity & Repository Metrics
 
 <div align="center">
-  <table style="margin: 0 auto; width: 85%; max-width: 600px;">
+  <table style="margin: 0 auto; width: 70%; max-width: 500px;">
     <thead>
       <tr>
-        <th width="33.3%" align="center">Profile Visitors</th>
-        <th width="33.3%" align="center">Last Active</th>
-        <th width="33.3%" align="center">Planned / Pending</th>
+        <th width="50%" align="center">Last Active</th>
+        <th width="50%" align="center">Public Projects</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://komarev.com/ghpvc/?username=M-Alparslan-A&label=&color=334155&style=flat" alt="Visitors" />
+          <img src="https://img.shields.io/github/last-commit/M-Alparslan-A/basys3-knight-rider-vio?color=334155&label=&style=flat" alt="Last Active" />
         </td>
         <td align="center">
-          <img src="https://img.shields.io/github/last-commit/M-Alparslan-A/M-Alparslan-A?color=334155&label=&style=flat" alt="Last Active" />
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/github/issues-raw/M-Alparslan-A/M-Alparslan-A?color=334155&label=&style=flat" alt="Pending Tasks" />
+          <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FM-Alparslan-A&query=%24.public_repos&label=&color=334155&style=flat" alt="Public Projects" />
         </td>
       </tr>
     </tbody>
