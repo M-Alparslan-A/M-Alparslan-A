@@ -59,7 +59,7 @@ I am an Electrical and Electronics Engineering undergraduate student at Bandırm
       <tr>
         <th width="33.3%" align="center">Profile Visitors</th>
         <th width="33.3%" align="center">Last Active</th>
-        <th width="33.3%" align="center">Public Projects</th>
+        <th width="33.3%" align="center">Planned / Pending</th>
       </tr>
     </thead>
     <tbody>
@@ -71,7 +71,7 @@ I am an Electrical and Electronics Engineering undergraduate student at Bandırm
           <img src="https://img.shields.io/github/last-commit/M-Alparslan-A/M-Alparslan-A?color=334155&label=&style=flat" alt="Last Active" />
         </td>
         <td align="center">
-          <img src="https://img.shields.io/badge/dynamic/json?color=334155&label=&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FM-Alparslan-A&style=flat" alt="Public Projects" />
+          <img src="https://img.shields.io/github/issues-raw/M-Alparslan-A/M-Alparslan-A?color=334155&label=&style=flat" alt="Pending Tasks" />
         </td>
       </tr>
     </tbody>
