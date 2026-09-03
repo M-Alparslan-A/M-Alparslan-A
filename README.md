@@ -53,28 +53,30 @@ I am an Electrical and Electronics Engineering undergraduate student at Bandırm
 
 ### Activity & Repository Metrics
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="33.3%" align="center">Profile Visitors</th>
-      <th width="33.3%" align="center">Last Active</th>
-      <th width="33.3%" align="center">Annual Commits</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=M-Alparslan-A&label=&color=334155&style=flat" alt="Visitors" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/last-commit/M-Alparslan-A/M-Alparslan-A?color=334155&label=&style=flat" alt="Last Active" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/commit-activity/y/M-Alparslan-A/M-Alparslan-A?color=334155&label=&style=flat" alt="Annual Commits" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table style="margin: 0 auto; width: 85%; max-width: 600px;">
+    <thead>
+      <tr>
+        <th width="33.3%" align="center">Profile Visitors</th>
+        <th width="33.3%" align="center">Last Active</th>
+        <th width="33.3%" align="center">Public Projects</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://komarev.com/ghpvc/?username=M-Alparslan-A&label=&color=334155&style=flat" alt="Visitors" />
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/github/last-commit/M-Alparslan-A/M-Alparslan-A?color=334155&label=&style=flat" alt="Last Active" />
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/dynamic/json?color=334155&label=&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FM-Alparslan-A&style=flat" alt="Public Projects" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
