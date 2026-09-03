@@ -1,14 +1,11 @@
 <div align="center">
 
-  <!-- Dynamic Header: Minimalist Monochrome / Slate Blue Palette -->
-  <a href="https://github.com/M-Alparslan-A">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Muhammet+Alparslan+Ak%C3%A7a;Electrical+%26+Electronics+Engineering;Digital+Systems+%7C+Automation+%7C+Embedded" alt="Typing SVG" />
-  </a>
+  <!-- Dynamic Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Muhammet+Alparslan+Ak%C3%A7a;Electrical+%26+Electronics+Engineering;Digital+Systems+%7C+Automation+%7C+Embedded" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=M-Alparslan-A&label=Views&color=475569&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/badge/Discipline-Electrical_%26_Electronics_Engineering-334155?style=flat-square" alt="Discipline" />
-    <img src="https://img.shields.io/badge/Location-Turkey-334155?style=flat-square" alt="Location" />
+  <!-- Plain Text Metadata Sub-header -->
+  <p style="font-family: 'JetBrains Mono', monospace, Consolas; font-size: 13px; color: #94a3b8; margin-top: 8px;">
+    Electrical &amp; Electronics Engineering &nbsp;|&nbsp; Undergraduate &nbsp;|&nbsp; Turkey
   </p>
 
 </div>
@@ -78,7 +75,7 @@ I am an Electrical and Electronics Engineering undergraduate student at Bandırm
 ### Contact
 
 <div align="center">
-  <a href="mailto:muhammetalparslanakca@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammetalparslanakca@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-muhammetalparslanakca%40gmail.com-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
