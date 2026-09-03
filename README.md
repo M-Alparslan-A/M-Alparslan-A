@@ -54,7 +54,7 @@ I am an Electrical and Electronics Engineering undergraduate student at Bandırm
 ### Activity & Repository Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Alparslan-A&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=94a3b8&icon_color=64748b" alt="GitHub Stats" width="480" />
+  <img src="https://ghchart.rshah.org/0f172a/M-Alparslan-A" width="100%" alt="Contribution Grid" />
 </div>
 
 ---
