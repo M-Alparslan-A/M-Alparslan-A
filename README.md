@@ -8,7 +8,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=M-Alparslan-A&label=Views&color=475569&style=flat-square" alt="Views" />
     <img src="https://img.shields.io/badge/Discipline-Electrical_%26_Electronics_Engineering-334155?style=flat-square" alt="Discipline" />
-    <img src="https://img.shields.io/badge/Status-Undergraduate-334155?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Location-Turkey-334155?style=flat-square" alt="Location" />
   </p>
 
 </div>
@@ -17,7 +17,7 @@
 
 ### Profile
 
-I am an Electrical and Electronics Engineering undergraduate student with a technical background oriented toward digital hardware logic, circuit modeling, industrial automation, and computational analysis. My work emphasizes understanding physical signal behavior alongside structured software implementation, maintaining clean documentation, and applying rigorous engineering practices.
+I am an Electrical and Electronics Engineering undergraduate student at Bandırma Onyedi Eylül University, based in Turkey. My technical background is oriented toward digital hardware logic, circuit modeling, industrial automation, and computational analysis. My work emphasizes understanding physical signal behavior alongside structured software implementation, maintaining clean documentation, and applying rigorous engineering practices.
 
 ---
 
@@ -36,7 +36,7 @@ I am an Electrical and Electronics Engineering undergraduate student with a tech
         <ul>
           <li><b>Digital Logic & FPGA:</b> Xilinx Vivado, VHDL, RTL Behavioral Simulation, Testbench Verification</li>
           <li><b>Circuit Analysis & Simulation:</b> LTspice, Proteus</li>
-          <li><b>Schematics & Electrical CAD:</b> EPLAN</li>
+          <li><b>PCB Design & Schematics:</b> KiCad, EPLAN</li>
           <li><b>Hardware Platforms:</b> Basys 3 (Xilinx Artix-7), Basic Microcontroller Architecture</li>
         </ul>
       </td>
