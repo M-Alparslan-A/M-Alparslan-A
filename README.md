@@ -54,9 +54,15 @@ I am an Electrical and Electronics Engineering undergraduate student at Bandırm
 ### Activity & Repository Metrics
 
 <div align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=M-Alparslan-A&theme=github-compact&bg_color=0f172a&color=94a3b8&line=64748b&point=f8fafc&hide_border=true" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Alparslan-A&theme=github-compact&bg_color=0f172a&color=94a3b8&line=64748b&point=f8fafc&hide_border=true" width="100%" alt="Contribution Graph" />
-  </a>
+  <table width="100%" border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=M-Alparslan-A&theme=github-compact&bg_color=0f172a&color=94a3b8&line=64748b&point=f8fafc&hide_border=true" target="_blank" rel="noopener noreferrer">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Alparslan-A&theme=github-compact&bg_color=0f172a&color=94a3b8&line=64748b&point=f8fafc&hide_border=true" width="100%" alt="Contribution Graph" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
