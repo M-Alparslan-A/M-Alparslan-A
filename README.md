@@ -54,7 +54,17 @@ I am an Electrical and Electronics Engineering undergraduate student at Bandırm
 ### Activity & Repository Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Alparslan-A&theme=slate" width="100%" alt="Repository & Activity Stats" />
+
+  <!-- Live Counter Badges: Activity & Visitors -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=M-Alparslan-A&label=Profile+Visitors&color=334155&style=flat-square" alt="Visitors" />
+    <img src="https://img.shields.io/github/last-commit/M-Alparslan-A/M-Alparslan-A?color=334155&label=Last%20Active&style=flat-square" alt="Last Active" />
+    <img src="https://img.shields.io/github/commit-activity/y/M-Alparslan-A/M-Alparslan-A?color=334155&label=Annual%20Commits&style=flat-square" alt="Annual Activity" />
+  </p>
+
+  <!-- Activity & Days Counter Card -->
+  <img src="https://streak-stats.demolab.com/?user=M-Alparslan-A&theme=slate&hide_border=true&background=0f172a&ring=334155&fire=94a3b8&currStreakLabel=f8fafc" width="480" alt="Activity Streaks & Days" />
+
 </div>
 
 ---
